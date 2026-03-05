@@ -2,7 +2,7 @@
 
 A software system for managing library books and members.
 
-## Construction DEcisions
+## Construction Decisions
 -**Language:** python 3.13+
 -**Testing:** pytest
 -**Version Control:** Git
